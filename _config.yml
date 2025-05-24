@@ -12,15 +12,15 @@
 
 #theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : sunrise # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : neon # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-CA"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Lawrence's site title"
+title                    : "I'll think of a catchy title one day"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Lawrence Matsuoka"
+name                     : "Lawrence Luan Matsuoka"
 description              : "math and computer person"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,40 +113,41 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lawrence Matsuoka"
+  name             : "Lawrence Luan Matsuoka"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I enjoy math and low level programming"
+  bio              : "I like math and low level programming"
   location         : "Canada"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-      #    - label: "Twitter"
-      #icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "mailto:Lawrence.Matsuoka@proton.me"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/lawrence-matsuoka"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://instagram.com/"
+      url: "https://linkedin.com/in/lawrence-matsuoka"
+#    - label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+
 
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "mailto:Lawrence.Matsuoka@proton.me"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/lawrence-matsuoka"
+      #- label: "GitLab"
+      #icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/lawrence-matsuoka"
 
 
 # Reading Files
@@ -216,7 +217,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Halifax # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate

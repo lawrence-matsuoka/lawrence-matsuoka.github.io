@@ -8,7 +8,9 @@ main:
     url: /resume/
   - title: "Projects"
     url: /projects/
+  - title: "Book Reviews"
+    url: /book-reviews/
   - title: "Mastodon Studios"
-    url: /mastodon/
+    url: /mastodon-studios/
   - title: "Contact"
     url: /contact/
