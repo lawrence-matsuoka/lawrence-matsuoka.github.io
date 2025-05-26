@@ -17,11 +17,11 @@ minimal_mistakes_skin    : neon # "default", "air", "aqua", "contrast", "dark", 
 # Site Settings
 locale                   : "en-CA"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "I'll think of a catchy title one day"
+title                    : "Low Level Larry"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lawrence Luan Matsuoka"
-description              : "math and computer person"
+description              : "kinda math and computer person"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Lawrence Luan Matsuoka"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I like math and low level programming"
+  avatar           : "/assets/images/peach.jpg"
+  bio              : "I like math and low level programming. Definitely not a writer or technical writer"
   location         : "Canada"
   email            : 
   links:
