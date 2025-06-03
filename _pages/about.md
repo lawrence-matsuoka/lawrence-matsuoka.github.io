@@ -8,7 +8,7 @@ BSc in Mathematics, minor in Business from Dalhousie University
 
 I like number theory and cryptography. I don't like calculus or analysis.
 
-My favourite programming languages to use tend to be lower level, mostly in C, some C++, and learning more and more Assembly (x86 and MSP430, but will expand to other architectures like ARM and RISC-V later).
+My favourite programming languages to use tend to be lower-level, mostly in C, some C++, and learning more and more Assembly (x86 and MSP430, but will expand to other architectures like ARM and RISC-V later).
 
 I like free and open-source software. Linux enjoyer _sips tea_. I also enjoy learning about how to improve my own privacy and security so I can own my data.
 

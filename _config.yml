@@ -17,7 +17,7 @@ minimal_mistakes_skin    : neon # "default", "air", "aqua", "contrast", "dark", 
 # Site Settings
 locale                   : "en-CA"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Low Level Larry"
+title                    : "Low-Level Larry"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lawrence Luan Matsuoka"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Lawrence Luan Matsuoka"
   avatar           : "/assets/images/peach.png"
-  bio              : "I like math and low level programming. Definitely not a writer or technical writer"
+  bio              : "I like math and low-level programming. Definitely not a writer or technical writer"
   location         : "Canada"
   email            : 
   links:
