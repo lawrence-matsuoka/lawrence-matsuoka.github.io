@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-[XtI](): (pending release) a command-line tool for chemists made with my boy [Nick](http://njeffrob.github.io).
+[XYZ to Input (XtI)](https://github.com/NJeffRob/XtI): a command-line tool for chemists made with [Nick Roberts](http://njeffrob.github.io).
 
 [Barbell Velocity Tracker](https://github.com/lawrence-matsuoka/barbell-tracker): a somewhat functioning barbell velocity tracker made with an MSP430.
 
